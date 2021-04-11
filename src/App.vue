@@ -98,6 +98,6 @@ export default {
   color: green;
 }
 .low {
-  color: blue;
+  color: rgb(24, 24, 201);
 }
 </style>
